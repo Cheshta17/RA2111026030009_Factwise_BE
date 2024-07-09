@@ -10,6 +10,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 #include <vector>
 #include <string>
 
+using namespace std;
 vector<string> u={"","one","two","three","four","five","six","seven","eight","nine"};
 vector<string> n={"","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nineteen"};
 vector<string> t={"","ten","twenty","thirty","fourty","fifty","sixty","seventy","eighty","ninety"};
